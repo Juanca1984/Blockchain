@@ -38,5 +38,12 @@
 
 -Quedó pendiente utilizar las historias de usuario para empezar a hacer el guión del video.
 
+## Séptima reunión (tercera con el maestro) 19/10/21
+-Resolvimos dudas sobre las historias de usuario y se optó por usar solo los requerimientos de la página, ya que no es un software muy complejo.
+
+-Dividimos las tareas que faltaban por realizar (los casos de uso y componer los requerimientos) los cuales dividimos entre todos, lo cual no afectaría ala métrica.
+
+-Quedamos que para el día siguiente ya debería estar listo el guion del video para grabarlo y subirlo al repo.
+
 
 
