@@ -9,48 +9,43 @@ Para los requerimientos utilizamos las historias de uso, pero nos parece adecuad
 
 #### Requerimientos Funcionales:
 ### Funcionales: 
-| RNF1   |      Servicio de    |  
+| RNF1   |      índice    |  
 |----------|:-------------:|
 | Prioridad:| Must |
 | Descripción |El usuario podrá ir al apartado que le interesa haciendo clic en el índice. |
 
-| RNF2   |      Servicio de    |  
+| RNF2   |      comentario   |  
 |----------|:-------------:|
 | Prioridad:| Must |
 | Descripcion | El usuario podrá dejar comentarios para dejar retroalimentación o pedir más información o referencias. |
 
-| RNF3   |      Servicio de   |  
+| RNF3   |      Traductor   |  
 |----------|:-------------:|
 | Prioridad:| Would |
 | Descripcion | -El usuario debe poder traducir la página a inglés.  |
 
-| RNF4   |      Servicio de    |  
+| RNF4   |      Servicio de voz    |  
 |----------|:-------------:|
 | Prioridad:| Would |
 | Descripcion |La página debe tener la opción de lector de pantalla para personas con discapacidad visual.  |
 
 #### Requerimientos No Funcionales:
-| RNF01   |      Servicio de    |  
+| RNF01   |      Rendimiento   |  
 |----------|:-------------:|
-| Prioridad:| Would |
 | Descripcion | La página solo soporta hasta 150 personas simultáneas. |
 
-| RNF02   |      Servicio de   |  
+| RNF02   |     Tiempo de respuesta     |  
 |----------|:-------------:|
-| Prioridad:| Would |
 | Descripcion | La página debe cargar en menos de 7 segundos. |
 
-| RNF03   |      Servicio de   |  
+| RNF03   |      Registro de comentarios   |  
 |----------|:-------------:|
-| Prioridad:| Would |
 | Descripcion | Los comentarios deben mostrarse de manera pública. |
 
-| RNF04   |      Servicio de    |  
+| RNF04   |      Fiabilidad   |  
 |----------|:-------------:|
-| Prioridad:| Would |
 | Descripcion | El lenguaje debe ser formal, ya que le da credibilidad a la página.  |
 
-| RNF05   |      Servicio de  |  
+| RNF05   |      Utilidad   |  
 |----------|:-------------:|
-| Prioridad:| Would |
 | Descripcion |El texto deberá ser corto y sintetizado para que no tarde tanto la lectura.  |
