@@ -20,8 +20,7 @@ Grupo de trabajo dedicado al desarrollo del producto, el development team es el 
 
 #### **Stake Holders**
 #### (Edgar Cambranes, Jose Lopez)
-Se le asignan estos roles a los jefes, usuarios o clientes para los que se esta trabajando y suelen llevar una comunicación con el product owner. En el caso de este proyecto los stake holders serian los mentores/docentes encargados de evaluar nuestro trabajo y en base a ello atribuirnos una calificación.
-
+Este rol se le asigna a aquellos que colaboran y ayudan a la realizacion del sprint, sin embargo, no son parte del equipo scrum. En esta categoria entran usuarion finales, jefes, clientes, equipos de TI, etc. En el caso de este proyecto incluimos como stakeholders a los dos mentores que ayudan a disipar problemas sobre el proyecto y que evaluan la entrega del producto.
 
 ## Metodologia
 
