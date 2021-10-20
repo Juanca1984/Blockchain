@@ -2,22 +2,24 @@
 
 # Scrum
 
-En este proyecto adoptamos la metodología scrum, scrum es un modelo de trabajo ideado para obtener resultados en un proceso ágil, bajo los frameworks de scrum es que nos adaptamos y seguimos como modelo para poder tener un proceso de desarrollo eficiente. Debido a que scrum fue ideado para proyectos a gran escala, nuestro flujo de trabajo fue mediante el modelo de scrum sin embargo adaptado a la escala de nuestras necesidades.
-------------
+En este proyecto adoptamos la metodología scrum, scrum es un modelo de trabajo ideado para obtener resultados en un proceso ágil, bajo los frameworks de scrum es que nos adaptamos y seguimos como modelo para poder tener un proceso de desarrollo eficiente. Debido a que este modelo fue ideado para proyectos a gran escala, nuestro flujo de trabajo fue mediante el modelo de scrum sin embargo adaptado a la escala de nuestras necesidades.
+
 ## Roles
 
 #### **Scrum Master**
+#### (Juan Carlos Ceballos Medina)
 Rol asignado al líder del equipo y responsable de liderar todo el proceso, encargado de procurar el trabajo del development team y coordinar en todo momento el proyecto.
 
 #### **Product Owner**
-
+##### (Ezequiel Jeremías Chan Ay)
 Rol encargado de poseer una visión clara del producto a realizar, se encarga de levantar el  backlog de las historias de usuario así como los requerimientos del proyecto, orienta al development team para que creen las funciones adecuadas del producto.
 
 #### **Development Team**
-
+##### (Juan Carlos Ceballos Medina, Ezequiel Jeremías Chan Ay, Carlos Javier Calderon Delgado, Erika Yamili Aguilar Itza, Miguel Angel Castillo Sanchez, Jean Carlos Buenfil Aguilar)
 Grupo de trabajo dedicado al desarrollo del producto, el development team es el encargado de trabajar durante los Sprint y llevar a cabo las actividades y acciones pertinentes para cumplir con lo establecido. Usualmente el Scrum Master y el Product owner no se encuentran en el development team, sin embargo, en nuestro caso ambos roles colaboraron con el resto del development team para obtener un proceso mas rápido.
 
 #### **Stake Holders**
+#### (Edgar Cambranes, Jose Lopez)
 Se le asignan estos roles a los jefes, usuarios o clientes para los que se esta trabajando y suelen llevar una comunicación con el product owner. En el caso de este proyecto los stake holders serian los mentores/docentes encargados de evaluar nuestro trabajo y en base a ello atribuirnos una calificación.
 
 
