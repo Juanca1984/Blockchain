@@ -19,6 +19,8 @@ Herramienta de repositorios, usado para alojar la documentación y código del p
 ## Trello 
 Herramienta de Software para administrar proyectos, usado para estructurar las tareas por hacer del sprint. El acceso a nuestro trello se encuentra [aqui](https://trello.com/invite/b/2AVV2KpB/9d3768d7581463f8db87934e288063ce/tablero-sin-t%C3%ADtulo "aqui")
 
+![TRELLO](https://github.com/Juanca1984/Blockchain/blob/6c20e71935e00a5ccc7147e5a321b88c21e664d9/Documentaci%C3%B3n/Primera%20Entrega/Imagenes/Screen%20Shot%202021-10-20%20at%2016.57.23.png)
+
 # Artefactos
 
 ### Bitacora
@@ -28,3 +30,11 @@ Registro que llevaba a cabo el scrum master de las videollamadas y reuniones que
 ### Formulario
 
 Formulario usado como estudio de mercado del publico target. Se puede acceder al formulario [aqui](https://docs.google.com/forms/d/e/1FAIpQLSd4WE7qMCUKPuJG4vLGhzDO2WeOwvj83k2BCCWP71qBugfqzw/viewform "aqui")
+
+![FORMS1](https://github.com/Juanca1984/Blockchain/blob/6c20e71935e00a5ccc7147e5a321b88c21e664d9/Documentaci%C3%B3n/Primera%20Entrega/Imagenes/Resultado%20Formulario%201.png)
+
+![FORMS2](https://github.com/Juanca1984/Blockchain/blob/6c20e71935e00a5ccc7147e5a321b88c21e664d9/Documentaci%C3%B3n/Primera%20Entrega/Imagenes/Resultado%20Formulario%202.png)
+
+![FORMS3](https://github.com/Juanca1984/Blockchain/blob/6c20e71935e00a5ccc7147e5a321b88c21e664d9/Documentaci%C3%B3n/Primera%20Entrega/Imagenes/Resultado%20Formulario%203.png)
+
+![FORMS4](https://github.com/Juanca1984/Blockchain/blob/6c20e71935e00a5ccc7147e5a321b88c21e664d9/Documentaci%C3%B3n/Primera%20Entrega/Imagenes/Resultado%20Formulario%204.png)
