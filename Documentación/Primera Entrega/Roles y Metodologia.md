@@ -19,7 +19,6 @@ Rol encargado de poseer una visión clara del producto a realizar, se encarga de
 Grupo de trabajo dedicado al desarrollo del producto, el development team es el encargado de trabajar durante los Sprint y llevar a cabo las actividades y acciones pertinentes para cumplir con lo establecido. Usualmente el Scrum Master y el Product owner no se encuentran en el development team, sin embargo, en nuestro caso ambos roles colaboraron con el resto del development team para obtener un proceso mas rápido.
 
 #### **Stake Holders**
-#### (Edgar Cambranes, Jose Lopez)
 Este rol se le asigna a aquellos que colaboran y ayudan a la realizacion del sprint, sin embargo, no son parte del equipo scrum. En esta categoria entran usuarion finales, jefes, clientes, equipos de TI, etc. En el caso de este proyecto incluimos como stakeholders a los dos mentores que ayudan a disipar problemas sobre el proyecto y que evaluan la entrega del producto.
 
 ## Metodologia
