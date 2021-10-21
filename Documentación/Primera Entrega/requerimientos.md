@@ -52,4 +52,4 @@ Para este apartado no usamos las historias de usuario, sin embargo sí utilizamo
 
 -----------------
 
-| [Siguiente](https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Primera%20Entrega/Casos_de_uso.md#cu01-navegar-en-la-p%C3%A1gina-web "Siguiente") |
+| [Siguiente](https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Primera%20Entrega/Casos_de_uso.md#cu01-navegar-en-la-p%C3%A1gina-web "Siguiente") |[Inicio]( https://github.com/Juanca1984/Blockchain#the-blockchain-project "Inicio") |
