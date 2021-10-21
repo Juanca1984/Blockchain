@@ -5,6 +5,10 @@ Entonces, cada integrante debe contar con 16.62% de colaboración, que equivale 
 
 ![Screenshot_20211020-201539_Office](https://user-images.githubusercontent.com/92338579/138195403-cfdefe01-1e8b-41c8-892f-8b63c681ad22.jpg)
 
+# Porcentaje de contribución individual
+![Tabla de contribuccion individual](https://user-images.githubusercontent.com/92878301/138205154-dda94e93-e6f7-4b0d-a2a0-bd9ba75ee651.png)
+
+
 -----------------
 
 | [Siguiente]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Primera%20Entrega/Bitacora.md#bit%C3%A1cora- "Siguiente") |
