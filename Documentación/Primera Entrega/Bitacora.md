@@ -46,4 +46,8 @@
 -Quedamos que para el día siguiente ya debería estar listo el guion del video para grabarlo y subirlo al repo.
 
 
+-----------------
+
+| [Siguiente]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Primera%20Entrega/Roles%20y%20Metodologia.md#scrum-%EF%B8%8F "Siguiente") |
+
 
