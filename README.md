@@ -5,7 +5,7 @@
 
 # Objetivo
 Dar a conocer los usos y utilidades que existen en la tecnología Blockchain mediante una página web interactiva e informativa que hable acerca de las aplicaciones que el sistema puede aportar a una red segura.
-## Usuarios
+## Usuarios  👨‍💻
 Los usuarios al que el sitio web está dirigido son personas interesadas en el ámbito de la programación de un software de seguridad, teniendo poca experiencia y conocimientos no tan bastos como los de un programador de alto nivel. Algunos ejemplos de usuarios son estudiantes de software o computación que están iniciando los estudios y quieran tener un mejor contexto de las tecnologías que surgen en años recientes, como lo es Blockchain. 
 ## Clientes
 Los clientes vienen siendo los usuarios, personas interesadas en las tecnología Blockchain en busca de un medio de información como páginas web que expliquen los usos y aplicaciones del sistema de bloques. 
