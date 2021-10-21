@@ -44,7 +44,7 @@ El usuario debe elegir el idioma inglés y dar clic en él.
 La página será totalmente traducida al inglés
 ## Secuencia: 
 P1: El usuario ingresa a la página
-P2: El usuario se dirige a la izquierda de la página al Menu y hace clc a él
+P2: El usuario se dirige a la izquierda de la página al Menu y hace clic en él
 P3: El usuario se dirige a la sección de “Idioma de preferencia” 
 P4: El usuario hace clic en el idioma inglés
 P5: La página se recargará y se traducirá completamente
