@@ -9,22 +9,22 @@ Para este apartado no usamos las historias de usuario, sin embargo sí utilizamo
 
 #### Requerimientos Funcionales:
 ### Funcionales: 
-| RNF1   |      índice    |  
+| RF01   |      índice    |  
 |----------|:-------------:|
 | Prioridad:| Must |
 | Descripción |El usuario podrá ir al apartado que le interesa haciendo clic en el índice. |
 
-| RNF2   |      comentario   |  
+| RF02   |      comentario   |  
 |----------|:-------------:|
 | Prioridad:| Must |
 | Descripcion | El usuario podrá dejar comentarios para dejar retroalimentación o pedir más información o referencias. |
 
-| RNF3   |      Traductor   |  
+| RF03   |      Traductor   |  
 |----------|:-------------:|
 | Prioridad:| Would |
 | Descripcion | -El usuario debe poder traducir la página a inglés.  |
 
-| RNF4   |      Servicio de voz    |  
+| RF04   |      Servicio de voz    |  
 |----------|:-------------:|
 | Prioridad:| Would |
 | Descripcion |La página debe tener la opción de lector de pantalla para personas con discapacidad visual.  |
