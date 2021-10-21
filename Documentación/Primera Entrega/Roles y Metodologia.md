@@ -49,3 +49,4 @@ Para asegurar la calidad se proopusieron ciertos parametros a cumplir:
 
 | [Siguiente]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Primera%20Entrega/Herramientas%20y%20Artefactos.md#herramientas-de-gesti%C3%B3n "Siguiente") |
 [Inicio]( https://github.com/Juanca1984/Blockchain#the-blockchain-project "Inicio") |
+[Atras](https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Primera%20Entrega/Bitacora.md#bit%C3%A1cora-"Atras") |
