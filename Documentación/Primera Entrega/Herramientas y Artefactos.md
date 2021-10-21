@@ -1,4 +1,4 @@
-# Herramientas de gestión
+# Herramientas de gestión 💭📆
 	
  ## WhatsApp
 Software de Mensajería, Fue usado para comunicarnos entre integrantes del development team para concretar fechas de reunión o asuntos respecto a las entregas.
