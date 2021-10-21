@@ -29,8 +29,12 @@ El backlog consiste en categorizar en una lista de mayor importancia a menor imp
 La segunda fase fue implementada en los requerimientos, los cuales se definieron y catalogaron bajo el modelo MoSCoW, el cual es una técnica que utilizamos para priorizar los requerimientos en base a las palabras clave: Must, Should, Could, Would. cabe destacar que durante este proceso distinguimos que era necesario únicamente los requerimientos y no las historias de usuario.
 
 ### Sprint
-Se define sprint como el periodo de trabajo con el objetivo de conseguir un resultado tangible para mostrar al Stake Holder. En el caso de la primera entrega se definió que se realizaría en un solo sprint, que durante un periodo de 15 días nuestro objetivo y la definición de hecho de nuestro artefacto a entregar sería la documentación y el video de presentación.
-
+Se define sprint como el periodo de trabajo con el objetivo de conseguir un resultado tangible para mostrar al Stake Holder. En el caso de la primera entrega se definió en dos partes:
+  #### Sprint Planning 
+   se realizaría en un solo sprint, que durante un periodo de 3 semanas nuestro objetivo y la definición de hecho de nuestro artefacto a entregar sería la documentación y el video de presentación.
+   #### Sprint Execution
+   Duranrte esta fase ya pasamos a la ejecucion de la planeacion, con ayuda de trello pudimos plantearnos fechas de entregas y tener un registro de lo ya hecho, lo que se esta haciendo y lo que falta por hacer. 
+   
 ### Daily Scrum:
 Usualmente con el sprint se asigna un proceso conocido como daily scrum, el cual es una pequeña reunión diaria para estar al día de que ya se ha avanzado y que se planea realizar, sin embargo, en este proyecto se optó por dos reuniones a la semana, una de ellas con el mentor que nos fue asignado bajo el fin de que resolvamos dudas con el y nos pueda sugerir mejoras en la dirección del proyecto.
 
