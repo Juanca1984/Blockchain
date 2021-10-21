@@ -30,7 +30,7 @@ Para este apartado no usamos las historias de usuario, sin embargo sí utilizamo
 | Descripcion |La página debe tener la opción de lector de pantalla para personas con discapacidad visual.  |
 
 #### Requerimientos No Funcionales:
-| RNF01   |      Rendimiento   |  
+| RNF01   |      Capacidad máxima   |  
 |----------|:-------------:|
 | Descripcion | La página solo soporta hasta 150 personas simultáneas. |
 
@@ -42,10 +42,10 @@ Para este apartado no usamos las historias de usuario, sin embargo sí utilizamo
 |----------|:-------------:|
 | Descripcion | Los comentarios deben mostrarse de manera pública. |
 
-| RNF04   |      Fiabilidad   |  
+| RNF04   |      Lenguaje formal   |  
 |----------|:-------------:|
 | Descripcion | El lenguaje debe ser formal, ya que le da credibilidad a la página.  |
 
-| RNF05   |      Utilidad   |  
+| RNF05   |      Sintetizado   |  
 |----------|:-------------:|
 | Descripcion |El texto deberá ser corto y sintetizado para que no tarde tanto la lectura.  |
