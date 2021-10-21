@@ -13,3 +13,4 @@ Entonces, cada integrante debe contar con 16.62% de colaboración, que equivale 
 
 | [Siguiente]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Primera%20Entrega/Bitacora.md#bit%C3%A1cora- "Siguiente") |
 [Inicio]( https://github.com/Juanca1984/Blockchain#the-blockchain-project "Inicio") |
+[Atras](https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Primera%20Entrega/Casos_de_uso.md#cu01-navegar-en-la-p%C3%A1gina-web "Atras") |
