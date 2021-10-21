@@ -1,5 +1,5 @@
-## HISTORIAS DE USUARIO/REQUERIMIENTOS✏️📋
-Para los requerimientos utilizamos las historias de uso, pero nos parece adecuado identificar en qué historias están los requerimientos funcionales y no funcionales:
+## REQUERIMIENTOS✏️📋
+Para este apartado no usamos las historias de usuario, sin embargo sí utilizamos requerimientos basados en entrevistas a los usuarios finales y utilizamos otros apartados de scrum.
 ### #Método de prioridad:
 
 - Must-Obligatorio.
