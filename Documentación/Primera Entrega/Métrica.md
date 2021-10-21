@@ -7,4 +7,4 @@ Entonces, para el 100% de colaboración, cada integrante debe sumar 6 puntos, de
 
 -----------------
 
-| [Siguiente](https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Primera%20Entrega/M%C3%A9trica.md#descripci%C3%B3n-de-la-m%C3%A9trica-individual- "Siguiente") |
+| [Siguiente]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Primera%20Entrega/Bitacora.md#bit%C3%A1cora- "Siguiente") |
