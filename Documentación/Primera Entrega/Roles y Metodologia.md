@@ -1,6 +1,6 @@
 
 
-# Scrum
+# Scrum ☑️
 
 En este proyecto adoptamos la metodología scrum, scrum es un modelo de trabajo ideado para obtener resultados en un proceso ágil, bajo los frameworks de scrum es que nos adaptamos y seguimos como modelo para poder tener un proceso de desarrollo eficiente. Debido a que este modelo fue ideado para proyectos a gran escala, nuestro flujo de trabajo fue mediante el modelo de scrum sin embargo adaptado a la escala de nuestras necesidades.
 
