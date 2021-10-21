@@ -72,3 +72,8 @@ P3: El sistema leerá con voz la información de la página
 
 # Diagrama de caso de uso
 ![Diagrama de casos de uso](https://user-images.githubusercontent.com/92878301/138192710-eeda436e-128f-499b-a523-b007352381ea.png)
+
+-----------------
+
+| [Siguiente](https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Primera%20Entrega/M%C3%A9trica.md#descripci%C3%B3n-de-la-m%C3%A9trica-individual- "Siguiente") |
+
