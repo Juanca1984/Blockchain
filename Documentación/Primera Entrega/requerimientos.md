@@ -9,12 +9,12 @@ Para este apartado no usamos las historias de usuario, sin embargo sí utilizamo
 
 #### Requerimientos Funcionales:
 ### Funcionales: 
-| RF01   |      índice    |  
+| RF01   |      Índice    |  
 |----------|:-------------:|
 | Prioridad:| Must |
 | Descripción |El usuario podrá ir al apartado que le interesa haciendo clic en el índice. |
 
-| RF02   |      comentario   |  
+| RF02   |      Comentario   |  
 |----------|:-------------:|
 | Prioridad:| Must |
 | Descripcion | El usuario podrá dejar comentarios para dejar retroalimentación o pedir más información o referencias. |
@@ -24,7 +24,7 @@ Para este apartado no usamos las historias de usuario, sin embargo sí utilizamo
 | Prioridad:| Would |
 | Descripcion | -El usuario debe poder traducir la página a inglés.  |
 
-| RF04   |      Servicio de voz    |  
+| RF04   |      Lector de voz    |  
 |----------|:-------------:|
 | Prioridad:| Would |
 | Descripcion |La página debe tener la opción de lector de pantalla para personas con discapacidad visual.  |
