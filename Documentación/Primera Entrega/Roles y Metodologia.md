@@ -44,3 +44,7 @@ Para asegurar la calidad se proopusieron ciertos parametros a cumplir:
 -	Tanto los requerimientos como los casos de uso están en el formato adecuado.
 -	El repositorio esta bien ordenado, con sus branches respectivas de cada participante y entregas.
 
+
+-----------------
+
+| [Siguiente]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Primera%20Entrega/Herramientas%20y%20Artefactos.md#herramientas-de-gesti%C3%B3n "Siguiente") |
