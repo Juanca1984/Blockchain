@@ -9,25 +9,21 @@ Para este apartado no usamos las historias de usuario, sin embargo sí utilizamo
 
 #### Requerimientos Funcionales:
 ### Funcionales: 
-| RF01   |      Índice    |  
+| RF01   |      Menú    |  
 |----------|:-------------:|
 | Prioridad:| Must |
-| Descripción |El usuario podrá ir al apartado que le interesa haciendo clic en el índice. |
+| Descripción |El usuario podrá ir al apartado que le interesa haciendo clic en el menú. |
 
 | RF02   |      Comentario   |  
 |----------|:-------------:|
 | Prioridad:| Must |
 | Descripcion | El usuario podrá dejar comentarios para dejar retroalimentación o pedir más información o referencias. |
 
-| RF03   |      Traductor   |  
-|----------|:-------------:|
-| Prioridad:| Would |
-| Descripcion | -El usuario debe poder traducir la página a inglés.  |
-
-| RF04   |      Lector de voz    |  
+| RF05   |      Video explicativo    |  
 |----------|:-------------:|
 | Prioridad:| Would |
 | Descripcion |La página debe tener la opción de lector de pantalla para personas con discapacidad visual.  |
+
 
 #### Requerimientos No Funcionales:
 | RNF01   |      Capacidad máxima   |  
@@ -44,15 +40,15 @@ Para este apartado no usamos las historias de usuario, sin embargo sí utilizamo
 
 | RNF05   |      Sintetizado   |  
 |----------|:-------------:|
-| Descripcion |El texto deberá ser corto y sintetizado para que no tarde tanto la lectura.  |
+| Descripcion |El texto deberá ser corto y sintetizado, la lectura no debe durar más de 1 minuto por párrafo.  |
 
-| RNF06   |      Bien Organizado   |  
+| RNF06   |      Organizado   |  
 |----------|:-------------:|
 | Descripcion |La estructura de la página deberá estar bien organizada para su correcta lectura.  |
 
-| RNF07   |      LLamativo   |  
+| RNF07   |      Decorado   |  
 |----------|:-------------:|
-| Descripcion |La página debe estar bien decorada, conforme al público al que está dirigido.  |
+| Descripcion |Debe tener colores adecuados para el target audience, debe tener un fondo cálido no muy llamativo, así como los colores de los títulos  |
 
 
 
