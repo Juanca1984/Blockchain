@@ -38,10 +38,6 @@ Para este apartado no usamos las historias de usuario, sin embargo sí utilizamo
 |----------|:-------------:|
 | Descripcion | La página debe cargar en menos de 7 segundos. |
 
-| RNF03   |      Registro de comentarios   |  
-|----------|:-------------:|
-| Descripcion | Los comentarios deben mostrarse de manera pública. |
-
 | RNF04   |      Lenguaje formal   |  
 |----------|:-------------:|
 | Descripcion | El lenguaje debe ser formal, ya que le da credibilidad a la página.  |
@@ -49,3 +45,14 @@ Para este apartado no usamos las historias de usuario, sin embargo sí utilizamo
 | RNF05   |      Sintetizado   |  
 |----------|:-------------:|
 | Descripcion |El texto deberá ser corto y sintetizado para que no tarde tanto la lectura.  |
+
+| RNF06   |      Bien Organizado   |  
+|----------|:-------------:|
+| Descripcion |La estructura de la página deberá estar bien organizada para su correcta lectura.  |
+
+| RNF07   |      LLamativo   |  
+|----------|:-------------:|
+| Descripcion |La página debe estar bien decorada, conforme al público al que está dirigido.  |
+
+
+
