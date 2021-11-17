@@ -38,6 +38,7 @@ P5: El sistema mostrará el comentario de manera pública
 El usuario podrá ver un video informativo para aclarar sus dudas sobre el blockchain
 ## Actores: 
 Cualquier usuario que quiera dirigirse al apartado del vídeo.
+
 ## Pre-condiciones: 
 El usuario debe dirigirse al apartado donde está el vídeo, ya sea por su cuenta o haciendo click en el menú.
 ## Post-condiciones: 
@@ -51,3 +52,6 @@ P5: Ka página mostrará el video.
 
 
 
+# Diagrama de Casos de Uso
+
+![Diagrama de Casos de uso](https://user-images.githubusercontent.com/92878301/142209949-457c114f-8c26-4e58-8d43-fbcb2322476f.png)
