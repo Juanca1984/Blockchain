@@ -1,0 +1,363 @@
+
+
+h1 {
+/* Blockchain y el combate a la corrupción */
+
+
+position: absolute;
+width: 983px;
+height: 65px;
+left: 220px;
+top: 152px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 60px;
+line-height: 70px;
+
+/* 800 */
+
+color: #2D3748;
+
+
+}
+
+fieldset{
+	background: #E5E5E5;	
+}
+
+#MiEstilo {
+	background-color: lightblue;
+	text-align: center;
+	font-weight:bold
+}
+
+
+
+UL{
+font-size: 25px;	
+	
+}	
+
+body{
+	background: #50F2CB;
+}	
+
+MENU{
+position: absolute;
+width: 622px;
+height: 90px;
+left: 203px;
+top: 803px;
+
+font-family: Inika;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 83px;
+
+color: #000000;
+}
+L1{
+	/* Acceso rapido */
+
+position: absolute;
+width: 700px;
+height: 60px;
+left: 203px;
+top: 1000px;
+border-top-left-radius:10px;
+border-bottom-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-right-radius: 10px;
+background-color: rgb(170, 226, 79);
+}
+
+L2{
+	/* Acceso rapido a Como funciona */
+
+position: absolute;
+width: 600px;
+height: 60px;
+left: 203px;
+top: 1100px;
+border-top-left-radius:10px;
+border-bottom-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-right-radius: 10px;
+background-color: rgb(45, 211, 223);
+}
+
+L3{
+	/* Acceso rapido a Aplicaciones de Blockchain */
+
+
+position: absolute;
+width: 500px;
+height: 60px;
+left: 202px;
+top: 1200px;
+border-top-left-radius:10px;
+border-bottom-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-right-radius: 10px;
+background-color: rgb(240, 133, 62);
+}
+
+L4{
+position: absolute;
+width: 400px;
+height: 60px;
+left: 203px;
+top: 1300px;
+border-top-left-radius:10px;
+border-bottom-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-right-radius: 10px;
+background-color: rgb(218, 40, 218);
+}
+
+L5{
+	/* Acceso rapido a Sobre nosotros */
+
+position: absolute;
+width: 300px;
+height: 60px;
+left: 202px;
+top: 1400px;
+border-top-left-radius:10px;
+border-bottom-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-right-radius: 10px;
+background-color: rgba(233, 230, 64, 0.863);
+
+}
+
+L6{
+	/* Acceso rapido a comentarios */
+
+position: absolute;
+width: 200px;
+height: 60px;
+left: 203px;
+top: 1500px;
+border-top-left-radius:10px;
+border-bottom-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-right-radius: 10px;
+background-color: rgb(255, 255, 255);
+}
+F1{
+	/* ¿Qué es Blockchain? */
+
+
+position: absolute;
+width: 900px;
+height: 294px;
+left: 99px;
+top: 1600px;
+
+font-family: Josefin Slab;
+font-style: normal;
+font-weight: bold;
+font-size: 80px;
+line-height: 80px;
+
+color: #000000;
+}
+
+P1{
+	position: absolute;
+width: 1242px;
+height: 118px;
+left: 101px;
+top: 1775px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+
+color: #718096;
+}
+
+F2{
+	/* ¿COMO FUNCIONA? */
+
+
+position: absolute;
+width: 900px;
+height: 294px;
+left: 99px;
+top: 1900px;
+
+font-family: Josefin Slab;
+font-style: normal;
+font-weight: bold;
+font-size: 80px;
+line-height: 80px;
+
+color: #000000;
+}
+
+P2{
+	position: absolute;
+width: 1242px;
+height: 118px;
+left: 101px;
+top: 2000px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+
+/* 600 */
+
+color: #718096;
+
+}
+
+F3{
+	/* ¿COMO FUNCIONA? */
+
+
+position: absolute;
+width: 900px;
+height: 294px;
+left: 99px;
+top: 2200px;
+
+font-family: Josefin Slab;
+font-style: normal;
+font-weight: bold;
+font-size: 80px;
+line-height: 80px;
+
+color: #000000;
+}
+
+P3{
+	position: absolute;
+width: 1242px;
+height: 118px;
+left: 101px;
+top: 2400px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+
+/* 600 */
+
+color: #718096;
+
+}
+
+F4{
+	/* FUENTES */
+
+
+position: absolute;
+width: 900px;
+height: 294px;
+left: 99px;
+top: 2800px;
+
+font-family: Josefin Slab;
+font-style: normal;
+font-weight: bold;
+font-size: 80px;
+line-height: 80px;
+
+color: #000000;
+}
+
+P4{
+	position: absolute;
+width: 1242px;
+height: 118px;
+left: 101px;
+top: 2900px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+
+/* 600 */
+
+color: #718096;
+
+}
+
+F5{
+	/* ¿COMO FUNCIONA? */
+
+
+position: absolute;
+width: 900px;
+height: 294px;
+left: 99px;
+top: 3100px;
+
+font-family: Josefin Slab;
+font-style: normal;
+font-weight: bold;
+font-size: 80px;
+line-height: 80px;
+
+color: #000000;
+}
+
+P5{
+	position: absolute;
+width: 1242px;
+height: 118px;
+left: 101px;
+top: 3200px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+
+/* 600 */
+
+color: #718096;
+
+}
+ /* FORMATO FORMULARIO*/
+P6{
+position: absolute;
+width: 1348px;
+height: 3046px;
+left: 35px;
+top: 3400px;
+}
+
+{
+	/* COMENTARIOS */
+
+
+position: absolute;
+width: 900px;
+height: 294px;
+left: 99px;
+top: 3100px;
+
+font-family: Josefin Slab;
+font-style: normal;
+font-weight: bold;
+font-size: 80px;
+line-height: 80px;
+
+color: #000000;
+}
