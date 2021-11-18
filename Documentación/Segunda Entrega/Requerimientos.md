@@ -50,5 +50,16 @@ Para este apartado no usamos las historias de usuario, sin embargo sí utilizamo
 |----------|:-------------:|
 | Descripcion |Debe tener colores adecuados para el target audience, debe tener un fondo cálido no muy llamativo, así como los colores de los títulos  |
 
+### Cambios en la segunda entrega
+
+Para la segunda entrega, se realizaron los siguientes cambios en los requerimientos funcionales:
+- Al 01, "El usuario podrá ir al apartado que le interesa haciendo clic en el índice", se cambió de "índice" a "menú"
+- El 03, "El usuario debe poder traducir la página a inglés", fue eliminado
+- Los demás requerimientos funcionales permanecen sin alteraciones
+
+En cuanto a los requerimientos no funcionales se hicieron modificaciones en:
+- Al 05, se le modificó la descripción a “El texto deberá ser corto y sintetizado, la lectura no debe durar más de 1 minuto por párrafo” para ser más conciso. 
+- Se añadió un nuevo requerimiento (RNF06) llamado Organizado 
+- Se añadió un nuevo requerimiento (RNF07) llamado Decorado
 
 
