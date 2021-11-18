@@ -22,7 +22,7 @@ Para este apartado no usamos las historias de usuario, sin embargo sí utilizamo
 | RF05   |      Video explicativo    |  
 |----------|:-------------:|
 | Prioridad:| Would |
-| Descripcion |La página debe tener la opción de lector de pantalla para personas con discapacidad visual.  |
+| Descripcion |La página debe tener un video que sea explicativo al final de la página.  |
 
 
 #### Requerimientos No Funcionales:
