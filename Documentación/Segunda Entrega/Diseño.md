@@ -22,4 +22,5 @@
 -----------------
 
 | [Atras](https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Segunda%20Entrega/Competencias.md#demostracion-de-las-competencias-de-la-asignatura-reflejada-en-las-actividades-del-proyecto-"Atras") |
+[Inicio](https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Segunda%20Entrega/Bit%C3%A1cora.md#bit%C3%A1cora- "Inicio") |
 [Siguiente]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Segunda%20Entrega/M%C3%A9trica.md#descripci%C3%B3n-de-la-m%C3%A9trica-individual-"Siguiente") |
