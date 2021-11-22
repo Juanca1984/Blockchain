@@ -1,4 +1,4 @@
-# Blockchain para combatir la corrupción 🌐
+# Blockchain para combatir la corrupción (Información que irá en la página) 🌐
 
 ## Sobre nosotros
 Somos un grupo de estudiantes de la Universidad Autónoma de Yucatán, precisamente de primer semestre de Licenciatura en Ingeniería de Software, nuestra intención al crear esta página web es el informar acerca de esta tecnología que es el Blockchain y como se puede aplicar como herramienta para combatir la corrupción, un problema que afecta gravemente muchos países
