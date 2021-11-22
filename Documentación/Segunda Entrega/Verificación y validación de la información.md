@@ -38,4 +38,4 @@ Zocaro, M. (2021, 8 noviembre). Blockchain para transparentar la Obra Pública. 
 
 -----------------
 | [Atrás](https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Segunda%20Entrega/Requerimientos.md#requerimientos%EF%B8%8F"Atrás") |
-[Inicio](https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Segunda%20Entrega/Bit%C3%A1cora.md#bit%C3%A1cora- "Inicio") |
+[Inicio]( https://github.com/Juanca1984/Blockchain#the-blockchain-project "Inicio") |
