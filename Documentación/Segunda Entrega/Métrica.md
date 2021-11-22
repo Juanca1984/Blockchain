@@ -4,3 +4,7 @@ Para la métrica las tareas fueron valoradas numericamente del 1 al 3, siendo 1 
 
 # Porcentaje de contribución individual
 ![Screenshot_20211121-181516_Docs](https://user-images.githubusercontent.com/92338579/142784884-e78ae2f0-98e1-44fd-ad4c-0420baf5afaf.jpg)
+
+-----------------
+| [Atras](https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Segunda%20Entrega/Dise%C3%B1o.md#diagrama-de-despliegue-"Atras") |
+[Siguiente]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Segunda%20Entrega/Pruebas.md#prueba-de-aceptabilidad-qa-"Siguiente") |
