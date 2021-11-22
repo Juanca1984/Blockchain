@@ -37,6 +37,9 @@ nuevo diseño. Ahora tuvimos la retro de que se distinguían las funcionalidades
 se confundía con el diseño, además de los apartados de vídeo y comentarios fueron ahora mejor entendidos. 
 Aquí el link de la segunda prueba de 5 segundos: https://app.usabilityhub.com/do/f5c37aaa3e10/5312
 
+<img width="895" alt="Screenshot 2021-11-22 004805" src="https://user-images.githubusercontent.com/91033892/142816639-2a842219-cd1f-4ef6-9140-37d943044fc6.png">
+<img width="445" alt="Screenshot 2021-11-22 004854" src="https://user-images.githubusercontent.com/91033892/142816650-fb5fae5b-234d-4178-ba7f-8b7197ca134b.png">
+
 -----------------
 | [Atrás](https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Segunda%20Entrega/M%C3%A9trica.md#descripci%C3%B3n-de-la-m%C3%A9trica-individual-"Atrás") |
 [Siguiente]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Segunda%20Entrega/Requerimientos.md#requerimientos%EF%B8%8F"Siguiente") |
