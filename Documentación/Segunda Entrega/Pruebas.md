@@ -20,10 +20,16 @@ aspectos que hacen referencia a la usabilidad. Aquí está el link del test con 
 Recibimos la retroalimentación de que la landing page no se entendía muy bien, los usuarios no sabían que los podían 
 a la parte que quisieran, ellos pensaron que era parte del diseño.
 
+<img width="865" alt="Screenshot 2021-11-22 004234" src="https://user-images.githubusercontent.com/91033892/142815950-fe5a85d0-3101-4d39-90d5-78ca76d838e8.png">
+<img width="403" alt="Screenshot 2021-11-22 004250" src="https://user-images.githubusercontent.com/91033892/142815968-9e537f80-bcf3-4516-a451-2254a4d68d19.png">
+
 ## Segunda prueba de aceptación
 Luego de cambiar el diseño de la página hicimos una segunda prueba de aceptación con las mismas preguntas, a otros 6 estudiantes 
 de la carrera de ingeniería de Software. Nos dijeron que ahora sí el diseño concordaba con el tema que tratábamos,
-los colores eran más coherentes y el fondo también. Aquí el link de la segunda encuesta: https://docs.google.com/forms/d/e/1FAIpQLScMrwQS3G6EowXuIYA9HHV6tLqf-jkKGiiWXVzgEkWfqIJWMw/viewform?usp=sf_link
+los colores eran más coherentes y el fondo también. Aquí el link de la segunda encuesta: https://docs.google.com/forms/d/1iRfxEjsPZ_28m2a915Cv-IQSg5CK2f9_fwLP4LCx-BA/edit?hl=ES#responses
+
+<img width="283" alt="Screenshot 2021-11-22 004630" src="https://user-images.githubusercontent.com/91033892/142816359-4cc294a1-c726-4dfd-950d-c2155133da6f.png">
+<img width="285" alt="Screenshot 2021-11-22 004657" src="https://user-images.githubusercontent.com/91033892/142816365-a0e3fdea-97c9-4a1f-9cee-2123145b979a.png">
 
 ## Segunda prueba de 5 segundos
 Aquí con ayuda del mismo software que de la primera prueba, realizamos las mismas preguntas pero con las imágenes del
