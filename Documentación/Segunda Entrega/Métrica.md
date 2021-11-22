@@ -7,5 +7,5 @@ Para la métrica las tareas fueron valoradas numericamente del 1 al 3, siendo 1 
 
 -----------------
 | [Atras](https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Segunda%20Entrega/Dise%C3%B1o.md#diagrama-de-despliegue-"Atras") |
-[Inicio](https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Segunda%20Entrega/Bit%C3%A1cora.md#bit%C3%A1cora- "Inicio") |
+[Inicio]( https://github.com/Juanca1984/Blockchain#the-blockchain-project "Inicio") |
 [Siguiente]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Segunda%20Entrega/Pruebas.md#prueba-de-aceptabilidad-qa-"Siguiente") |
