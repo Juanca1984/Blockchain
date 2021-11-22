@@ -43,3 +43,7 @@
 
   A). Durante el desarrollo del proyecto y al administrar las tareas en el trello, se usan los nombres respectivos de cada fase asi como de los conceptos y artefactos de la misma.
 
+-----------------
+
+| [Atras](https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Segunda%20Entrega/Bit%C3%A1cora.md#bit%C3%A1cora-"Atras") |
+[Siguiente]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Segunda%20Entrega/Competencias.md#demostracion-de-las-competencias-de-la-asignatura-reflejada-en-las-actividades-del-proyecto- "Siguiente") |
