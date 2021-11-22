@@ -18,4 +18,4 @@ Aunque Blockchain sea un sistema tan seguro, no se usa tanto en otros aspectos a
 https://www.youtube.com/watch?v=Jb054FpzdJs&ab_channel=MiguelCastillo
 -----------------
 
-| [Siguiente](https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Primera%20Entrega/requerimientos.md#historias-de-usuariorequerimientos%EF%B8%8F "Siguiente") |
+
