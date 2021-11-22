@@ -35,3 +35,7 @@ EUROMONEY. (s. f.). Blockchain Explained: What is blockchain? | Euromoney Learni
 Bybit. (2021, 12 octubre). Explicación: ¿Qué es el hash en blockchain? Bybit Learn. Recuperado 12 de noviembre de 2021, de https://learn.bybit.com/es/blockchain-es/que-es-hashing-blockchain/
 
 Zocaro, M. (2021, 8 noviembre). Blockchain para transparentar la Obra Pública. Marcos Zocaro. Recuperado 13 de noviembre de 2021, de https://marcoszocaro.com.ar/blockchain-para-transparentar-la-obra-publica/
+
+-----------------
+| [Atrás](https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Segunda%20Entrega/Requerimientos.md#requerimientos%EF%B8%8F"Atrás") |
+[Siguiente](https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Segunda%20Entrega/Bit%C3%A1cora.md#bit%C3%A1cora- "Siguiente") |
