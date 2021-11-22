@@ -46,4 +46,5 @@
 -----------------
 
 | [Atras](https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Segunda%20Entrega/Casos%20de%20uso.md#cu01-navegar-en-la-p%C3%A1gina-web-"Atras") |
+[Inicio](https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Segunda%20Entrega/Bit%C3%A1cora.md#bit%C3%A1cora- "Inicio") |
 [Siguiente]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Segunda%20Entrega/Dise%C3%B1o.md#diagrama-de-despliegue-"Siguiente") |
