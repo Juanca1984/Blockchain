@@ -1,4 +1,4 @@
-# CU01: Navegar en la página web
+# CU01: Navegar en la página web 🖱
 ## Descripción: 
 El usuario podrá dirigirse a cualquier apartado de la página web
 ## Actores: 
@@ -33,7 +33,7 @@ P5: El sistema mostrará el comentario de manera pública
 
 
 
-# CU03: El usuario podrá ver un video 
+# CU03: El usuario podrá ver un video 👀
 ## Descripción:
 El usuario podrá ver un video informativo para aclarar sus dudas sobre el blockchain
 ## Actores: 
@@ -52,6 +52,6 @@ P5: Ka página mostrará el video.
 
 
 
-# Diagrama de Casos de Uso
+# Diagrama de Casos de Uso 👥
 
 ![Diagrama de Casos de uso](https://user-images.githubusercontent.com/92878301/142209949-457c114f-8c26-4e58-8d43-fbcb2322476f.png)
