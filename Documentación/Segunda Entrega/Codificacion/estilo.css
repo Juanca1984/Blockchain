@@ -1,0 +1,65 @@
+h1 {
+ border: 2px solid black;
+ color: rgb(255, 255, 255);
+ text-align: center
+}
+	
+fieldset{
+background-color:rgb(255, 255, 255)	
+}
+
+#MiEstilo {
+	background-color: lightblue;
+	text-align: center;
+	font-weight:bold
+}
+
+.OtroEstilo{
+	background-color: yellow;
+   
+}
+
+UL{
+font-size: 25px;	
+	
+}	
+
+body{
+  margin: 0;
+  padding: 0;
+  background: url(imagenes/bloc.png);
+  background-size: cover;
+  background-position: center;
+  font-family: sans-serif;
+}	
+
+.menu{
+	list-style: none;
+	padding: 0;
+	background: #6752da;
+	width: 95%;
+	max-width: 1273px;
+	margin: auto;
+}
+
+.menu li a{
+	text-decoration: none;
+	color: rgb(0, 0, 0);
+	padding: 20px;
+	display: block;
+}
+
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+
+.menu li a:hover{
+	background: #ffffff;
+}
+
+p1{
+	font-size: 25px;	
+	color: white;
+	background-position: center;	
+	}
