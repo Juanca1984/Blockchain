@@ -18,3 +18,8 @@
 3. Finalmente, con el wireframe en balsamic listo y concluyendo nosotros que el diseño, distribuiocion y colores eran mucho mejor, nos dispusimos a realizar el diseño de la pagina web en figma. Este diseño final fue nuestro producto de este segundo sprint y por ende nuestra definicion de "hecho":
 
 ![Diseño final](https://github.com/Juanca1984/Blockchain/blob/6e7d6245a9d712345a86eb5f8bb65644ee70d3c8/Documentaci%C3%B3n/Segunda%20Entrega/Imagenes/Screen%20Shot%202021-11-21%20at%2022.12.28.png) 
+
+-----------------
+
+| [Atras](https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Segunda%20Entrega/Competencias.md#demostracion-de-las-competencias-de-la-asignatura-reflejada-en-las-actividades-del-proyecto-"Atras") |
+[Siguiente]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Segunda%20Entrega/M%C3%A9trica.md#descripci%C3%B3n-de-la-m%C3%A9trica-individual-"Siguiente") |
