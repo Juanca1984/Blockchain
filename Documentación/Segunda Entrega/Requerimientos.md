@@ -62,4 +62,8 @@ En cuanto a los requerimientos no funcionales se hicieron modificaciones en:
 - Se añadió un nuevo requerimiento (RNF06) llamado Organizado 
 - Se añadió un nuevo requerimiento (RNF07) llamado Decorado
 
+-----------------
+| [Atrás](https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Segunda%20Entrega/Pruebas.md#prueba-de-aceptabilidad-qa-"Atrás") |
+[Siguiente]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Segunda%20Entrega/Verificaci%C3%B3n%20y%20validaci%C3%B3n%20de%20la%20informaci%C3%B3n.md#blockchain-para-combatir-la-corrupci%C3%B3n-"Siguiente") |
+
 
