@@ -1,4 +1,4 @@
-# Demostracion de las competencias de la asignatura reflejada en las actividades del proyecto
+# Demostracion de las competencias de la asignatura reflejada en las actividades del proyecto 🤝
 
 ## Competencias genericas
 
