@@ -1,4 +1,6 @@
 # Descripción de la métrica individual 📝
 Para la métrica las tareas fueron valoradas numericamente del 1 al 3, siendo 1 el tipo de tarea más sencilla, 2 siendo una tarea que conlleva el doble de esfuerzo de una 1, y 3 siendo una tarea que conlleva el triple de esfuerzo de una 1; al sumar las valoraciones, el valor de las tareas en conjunto es de 25, y al ser 6 miembros en el equipo, cada integrante del equipo debe realizar tareas que sus valores sumen 5 para que sea equitativo; algo que se debe mencionar es que la tarea de "Aparece en el video" fue asignada a todos, por lo que no se suman puntos por cumplirla pero sí se restan en caso de no cumplirla. En caso de no aportar a las tareas realizadas por todos se descontarían puntos. Entonces, cada integrante debe contar con 16.62% de colaboración, que equivale a 5 puntos, de contar con menos, el porcentaje de colaboración se calcularía con la fórmula (Puntos)(16.62)/(5)
+![Screenshot_20211121-160423_Office](https://user-images.githubusercontent.com/92338579/142783983-dc081c09-ece8-4ff2-a543-58e61012f7cb.jpg)
 
 # Porcentaje de contribución individual
+![Screenshot_20211121-181516_Docs](https://user-images.githubusercontent.com/92338579/142784884-e78ae2f0-98e1-44fd-ad4c-0420baf5afaf.jpg)
