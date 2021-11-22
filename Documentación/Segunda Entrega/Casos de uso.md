@@ -55,3 +55,7 @@ P5: Ka página mostrará el video.
 # Diagrama de Casos de Uso 👥
 
 ![Diagrama de Casos de uso](https://user-images.githubusercontent.com/92878301/142209949-457c114f-8c26-4e58-8d43-fbcb2322476f.png)
+-----------------
+
+| [Atras](https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Segunda%20Entrega/Bit%C3%A1cora.md#bit%C3%A1cora-"Atras") |
+[Siguiente]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Segunda%20Entrega/Competencias.md#demostracion-de-las-competencias-de-la-asignatura-reflejada-en-las-actividades-del-proyecto- "Siguiente") |
