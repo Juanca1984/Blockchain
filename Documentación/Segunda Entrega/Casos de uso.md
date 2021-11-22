@@ -55,3 +55,16 @@ P5: Ka página mostrará el video.
 # Diagrama de Casos de Uso
 
 ![Diagrama de Casos de uso](https://user-images.githubusercontent.com/92878301/142209949-457c114f-8c26-4e58-8d43-fbcb2322476f.png)
+
+# Cambios de la segunda entrega
+
+
+Se opto por cambiar estos casos de uso, las cuales son:
+CU03: El usuario podrá traducir la página al idioma inglés
+CU04: El usuario podrá usar lector de pantalla en la información
+
+Por este: 
+CU03: El usuario podrá ver un video 
+
+Consideramos cambiarlos ya que la mayoria de los navegadores tiene implementado un traductor, y la traduccion es aceptable, además a traves de la encuesta los usuarios optarón que les gusta ver vídeo para complementar la  información
+
