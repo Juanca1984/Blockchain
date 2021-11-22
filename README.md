@@ -14,8 +14,11 @@ Los clientes vienen siendo los usuarios, personas interesadas en las tecnología
 
 Aunque Blockchain sea un sistema tan seguro, no se usa tanto en otros aspectos además de la criptomoneda, siendo que se podría llevar a otras áreas, como en el **gobierno**; si los registros de las acciones del gobierno usaran un sistema blockchain, se podría tener un sistema gubernamental más seguro y transparente, con lo que se podrían evitar actos de corrupción, como el fraude electoral y el desvío de recursos. Es justo este uso lo que se presenta en este proyecto
 
-## Video link
+## Video link primera entrega
 https://www.youtube.com/watch?v=Jb054FpzdJs&ab_channel=MiguelCastillo
+## Video link segunda entrega
+https://www.youtube.com/watch?v=qbhqkXyY734&ab_channel=MiguelCastillo
+
 -----------------
 
 
