@@ -42,6 +42,7 @@ Aquí el link de la segunda prueba de 5 segundos: https://app.usabilityhub.com/d
 
 -----------------
 | [Atrás](https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Segunda%20Entrega/M%C3%A9trica.md#descripci%C3%B3n-de-la-m%C3%A9trica-individual-"Atrás") |
+[Inicio](https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Segunda%20Entrega/Bit%C3%A1cora.md#bit%C3%A1cora- "Inicio") |
 [Siguiente]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Segunda%20Entrega/Requerimientos.md#requerimientos%EF%B8%8F"Siguiente") |
 
 
