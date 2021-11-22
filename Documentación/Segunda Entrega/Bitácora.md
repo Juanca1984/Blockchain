@@ -10,3 +10,8 @@ En esta reunión avanzamos en el proceso de incorporar nuestros aspectos al repo
 una vez terminada el prototipo de la construcción de la página, discutimos la manera
 en que se realizarán las pruebas para poder saber qué es lo que cambiaremos 
 para la siguiente entrega.
+
+-----------------
+
+
+| [Siguiente]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Segunda%20Entrega/Casos%20de%20uso.md#cu01-navegar-en-la-p%C3%A1gina-web- "Siguiente") |
