@@ -6,4 +6,8 @@ Recibimos retroalimentación para mejorar sobre el diseño de la página, donde 
 que se estaba hablando, así como los colores de fondo y los usuarios pidieron más imágenes.
 La retroalimentación positiva fue para lo sintetizada que está la información, el tamaño de las letras.
 
+-----------------
+| [Atrás](https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Segunda%20Entrega/M%C3%A9trica.md#descripci%C3%B3n-de-la-m%C3%A9trica-individual-"Atrás") |
+[Siguiente]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Segunda%20Entrega/Requerimientos.md#requerimientos%EF%B8%8F"Siguiente") |
+
 
