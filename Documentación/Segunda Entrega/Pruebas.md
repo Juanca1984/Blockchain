@@ -8,6 +8,11 @@ que se estaba hablando, así como los colores de fondo y los usuarios pidieron m
 La retroalimentación positiva fue para lo sintetizada que está la información, el tamaño de las letras. 
 Aquí el link de la prueba: https://docs.google.com/forms/d/1CcfBfms7xstb-1WFOiapJLoDz-oA4R3RQsDh-Xf6FRs/edit
 
+<img width="574" alt="Screenshot 2021-11-22 003812" src="https://user-images.githubusercontent.com/91033892/142815674-66931247-579e-4523-b623-6d6827ab3524.png">
+<img width="588" alt="Screenshot 2021-11-22 003912" src="https://user-images.githubusercontent.com/91033892/142815692-c2ef6efd-3072-4851-babb-19c3c276c575.png">
+<img width="430" alt="Screenshot 2021-11-22 003949" src="https://user-images.githubusercontent.com/91033892/142815698-4b386a77-e2b6-4e80-a5b3-2e291f264dd8.png">
+
+
 ## Primera prueba de 5 segundos 
 En esta prueba utilizamos el software de Usability Hub para realizar las pruebas de 5 segundos, en la que 
 mostramos una imagen por 5 segundos al usuario, luego, con base a esa imagen le preguntamos al usuario si notó ciertos
