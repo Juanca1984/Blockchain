@@ -64,6 +64,7 @@ En cuanto a los requerimientos no funcionales se hicieron modificaciones en:
 
 -----------------
 | [Atrás](https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Segunda%20Entrega/Pruebas.md#prueba-de-aceptabilidad-qa-"Atrás") |
+[Inicio](https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Segunda%20Entrega/Bit%C3%A1cora.md#bit%C3%A1cora- "Inicio") |
 [Siguiente]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Segunda%20Entrega/Verificaci%C3%B3n%20y%20validaci%C3%B3n%20de%20la%20informaci%C3%B3n.md#blockchain-para-combatir-la-corrupci%C3%B3n-"Siguiente") |
 
 
