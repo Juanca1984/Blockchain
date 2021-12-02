@@ -49,3 +49,7 @@ Para este apartado no usamos las historias de usuario, sin embargo sí utilizamo
 | RNF07   |      Decorado   |  
 |----------|:-------------:|
 | Descripcion |Debe tener colores adecuados para el target audience, debe tener un fondo cálido no muy llamativo, así como los colores de los títulos  |
+
+### Cambios en la tercera entrega
+- De la segunda entrega a la tercera no hubieron cambios en los requerimientos, quedando iguales a los de la segunda entrega
+
