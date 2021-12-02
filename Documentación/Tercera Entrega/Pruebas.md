@@ -17,7 +17,7 @@ Aquí con ayuda del mismo software que de la primera prueba, realizamos las mism
 <img width="895" alt="Screenshot 2021-11-22 004805" src="https://user-images.githubusercontent.com/91033892/142816639-2a842219-cd1f-4ef6-9140-37d943044fc6.png"> <img width="445" alt="Screenshot 2021-11-22 004854" src="https://user-images.githubusercontent.com/91033892/142816650-fb5fae5b-234d-4178-ba7f-8b7197ca134b.png">
 
 
-# Prueba de calidad (Interfaz y contenido)
+# Prueba de compatibilidad (Interfaz y contenido)
 
 Para la prueba de interfaz y contenido, se recolectaron screenshot de como se visualiza la página (Verificación de interfaces) desde diferentes navegadores y dispositivos, priorizando los más usados por los usuarios según la encuesta abierta “Sistema y navegador” realizada por el equipo.  
 
