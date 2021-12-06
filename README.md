@@ -18,6 +18,8 @@ Aunque Blockchain sea un sistema tan seguro, no se usa tanto en otros aspectos a
 https://www.youtube.com/watch?v=Jb054FpzdJs&ab_channel=MiguelCastillo
 ## Video link segunda entrega
 https://www.youtube.com/watch?v=qbhqkXyY734&ab_channel=MiguelCastillo
+## Video link tercera entrega
+https://www.youtube.com/watch?v=lEpscvXuF9s
 
 -----------------
 
