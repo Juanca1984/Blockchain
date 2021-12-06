@@ -1,4 +1,4 @@
-# Crítica del curso
+# Crítica del curso 🙇‍♀️
 
 A través de la materia fundamentos de ingeniería de software se desarrollaron nuestras habilidades que requeriremos como futuros ingenieros de software. Consideramos que las actividades adecuadas para el desarrollo de las competencias de los estudiantes fueron las siguientes:
 
