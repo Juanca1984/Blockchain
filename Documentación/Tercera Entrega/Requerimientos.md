@@ -53,3 +53,7 @@ Para este apartado no usamos las historias de usuario, sin embargo sí utilizamo
 ### Cambios en la tercera entrega
 - De la segunda entrega a la tercera no hubieron cambios en los requerimientos, quedando iguales a los de la segunda entrega
 
+-----------------
+
+| [Atras]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Tercera%20Entrega/Pruebas.md#fase-de-pruebas-"Atras") |
+[Inicio]( https://github.com/Juanca1984/Blockchain "Inicio") |
