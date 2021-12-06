@@ -14,5 +14,5 @@ iban a implementar el poster y el artículo.
 
 -----------------
 
-[Inicio]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Tercera%20Entrega/Bit%C3%A1cora.md#bit%C3%A1cora "Inicio") |
+[Inicio]( https://github.com/Juanca1984/Blockchain "Inicio") |
 [Siguiente]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Tercera%20Entrega/Competencias.md#demostraci%C3%B3n-de-las-competencias-de-la-asignatura-reflejada-en-las-actividades-del-proyecto "Siguiente") |
