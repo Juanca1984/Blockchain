@@ -1,4 +1,4 @@
-# Bitácora 
+# Bitácora 📌📃
 
 ## Reunión del Equipo 22/11/20
 En esta bitácora discutimos cómo nos íbamos a organizar para realizar el trabajo,
