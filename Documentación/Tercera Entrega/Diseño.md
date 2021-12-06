@@ -26,3 +26,7 @@ Con el wireframe en balsamiq listo, procedimos a realizar el segundo prototipo d
 Finalmente con este segundo prototipo realizamos las mismas pruebas que se realizaron con el primero, y en este caso obtuvimos resultados positivos. Se entendian las funciones que ofrecia la pagina web y tenia un diseño atractivo en general. Con este resultado pudimos finalizar la fase de diseño y proceder a la implementacion.
 
 -----------------
+
+| [Atras]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Tercera%20Entrega/Dise%C3%B1o.md#fase-de-dise%C3%B1o- "Atras") |
+[Inicio]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Tercera%20Entrega/Bit%C3%A1cora.md#bit%C3%A1cora "Inicio") |
+[Siguiente]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Tercera%20Entrega/Implementacion.md#implementacion- "Siguiente") |
