@@ -26,5 +26,5 @@ Si bien las actividades en su mayoría cumplieron con el desarrollo de las compe
 -----------------
 
 | [Atras]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Tercera%20Entrega/Cr%C3%ADtica%20del%20curso.md#cr%C3%ADtica-del-curso-%EF%B8%8F "Atras") |
-[Inicio]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Tercera%20Entrega/Bit%C3%A1cora.md#bit%C3%A1cora "Inicio") |
+[Inicio](https://github.com/Juanca1984/Blockchain  "Inicio") |
 [Siguiente]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Tercera%20Entrega/Dise%C3%B1o.md#fase-de-dise%C3%B1o- "Siguiente") |
