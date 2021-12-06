@@ -13,5 +13,5 @@ Link de la página: https://unsparred-circumsta.000webhostapp.com/
 -----------------
 
 | [Atras](https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Tercera%20Entrega/Implementacion.md#implementacion- "Atras") |
-[Inicio]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Tercera%20Entrega/Bit%C3%A1cora.md#bit%C3%A1cora "Inicio") |
+[Inicio](https://github.com/Juanca1984/Blockchain  "Inicio") |
 [Siguiente]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Tercera%20Entrega/M%C3%A9trica.md#m%C3%A9trica- "Siguiente") |
