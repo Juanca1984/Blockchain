@@ -1,5 +1,6 @@
 
 # Fase de pruebas 🗣
+La fase de pruebas consistió de 3 tipos de pruebas, de aceptación, de 5 segundos y de compatibilidad.
 ## Primera prueba de aceptación
 Basado en los requerimientos, se hizo una serie de preguntas que cuestionaban el cumplimiento de los mismos, se hizo la prueba a 6 estudiantes de la carrera de ingeniería de Software. Recibimos retroalimentación para mejorar sobre el diseño de la página, donde nos dijeron que era muy simple y que no concordaba con el tema que se estaba hablando, así como los colores de fondo y los usuarios pidieron más imágenes. La retroalimentación positiva fue para lo sintetizada que está la información, el tamaño de las letras. 
 Aquí el link de la prueba: https://docs.google.com/forms/d/1CcfBfms7xstb-1WFOiapJLoDz-oA4R3RQsDh-Xf6FRs/edit
@@ -17,7 +18,7 @@ Aquí con ayuda del mismo software que de la primera prueba, realizamos las mism
 <img width="895" alt="Screenshot 2021-11-22 004805" src="https://user-images.githubusercontent.com/91033892/142816639-2a842219-cd1f-4ef6-9140-37d943044fc6.png"> <img width="445" alt="Screenshot 2021-11-22 004854" src="https://user-images.githubusercontent.com/91033892/142816650-fb5fae5b-234d-4178-ba7f-8b7197ca134b.png">
 
 
-# Prueba de compatibilidad (Interfaz y contenido)
+## Prueba de compatibilidad (Interfaz y contenido)
 
 Para la prueba de interfaz y contenido, se recolectaron screenshot de como se visualiza la página (Verificación de interfaces) desde diferentes navegadores y dispositivos, priorizando los más usados por los usuarios según la encuesta abierta “Sistema y navegador” realizada por el equipo.  
 
