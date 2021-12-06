@@ -6,5 +6,5 @@ Para la métrica como se ha estado haciendo en las anteriores entregas las tarea
 -----------------
 
 | [Atras](https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Tercera%20Entrega/Implementacion.md#implementacion- "Atras") |
-[Inicio]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Tercera%20Entrega/Bit%C3%A1cora.md#bit%C3%A1cora "Inicio") |
+[Inicio]( https://github.com/Juanca1984/Blockchain "Inicio") |
 [Siguiente](https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Tercera%20Entrega/Pruebas.md#fase-de-pruebas-  "Siguiente") |
