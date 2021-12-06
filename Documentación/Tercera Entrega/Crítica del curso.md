@@ -21,3 +21,10 @@ Si bien las actividades en su mayoría cumplieron con el desarrollo de las compe
   •Que en las pláticas que tenemos, además de hablar de sus experiencias, que los invitados nos compartan más sobre sus procesos.
   
   • Que se cuadren un poco más los tiempos de entrega, pues al inicio del curso casi no se entregó nada y al final estuvimos apretados.
+
+
+-----------------
+
+| [Atras]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Tercera%20Entrega/Cr%C3%ADtica%20del%20curso.md#cr%C3%ADtica-del-curso-%EF%B8%8F "Atras") |
+[Inicio]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Tercera%20Entrega/Bit%C3%A1cora.md#bit%C3%A1cora "Inicio") |
+[Siguiente]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Tercera%20Entrega/Dise%C3%B1o.md#fase-de-dise%C3%B1o- "Siguiente") |
