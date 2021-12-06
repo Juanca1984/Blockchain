@@ -49,3 +49,10 @@ Para el navegador, el 60% de los encuestados respondió usar Google Chrome, ya s
 ![IMG-20211201-WA0022](https://user-images.githubusercontent.com/92338579/144334705-e2df678d-43cc-464e-861e-2130a9d08907.jpg)
 
 Se concluye que la visuaización de la página concuerda con el diseño
+
+
+-----------------
+
+| [Atras]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Tercera%20Entrega/M%C3%A9trica.md#m%C3%A9trica-"Atras") |
+[Inicio]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Tercera%20Entrega/Bit%C3%A1cora.md#bit%C3%A1cora "Inicio") |
+[Siguiente](  https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Tercera%20Entrega/Requerimientos.md#requerimientos%EF%B8%8F"Siguiente") |
