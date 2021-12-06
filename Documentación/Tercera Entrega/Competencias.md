@@ -1,4 +1,4 @@
-# Demostración de las competencias de la asignatura reflejada en las actividades del proyecto 🏃🏃‍♂️
+# Demostración de las competencias de la asignatura reflejada en las actividades del proyecto
 
 ## Competencias genéricas 
 
@@ -33,4 +33,11 @@ Los integrantes del equipo de desarrollo fueron serios sobre el proceso de desar
 
 ### Utiliza adecuadamente la terminología propia de la Ingeniería de Software en sus intervenciones profesionales
 
-Tanto en la documentación como en las reuniones y comunicación dentro del equipo, se usaron las terminologías correspondientes de acuerdo a las acciones que se realizaron o los temas que se hablaron, lo que permitió generar un ambiente profesional 
+Tanto en la documentación como en las reuniones y comunicación dentro del equipo, se usaron las terminologías correspondientes de acuerdo a las acciones que se realizaron o los temas que se hablaron, lo que permitió generar un ambiente profesional.
+
+-----------------
+
+| [Atras]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Tercera%20Entrega/Bit%C3%A1cora.md#bit%C3%A1cora-"Atras") |
+[Inicio]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Tercera%20Entrega/Bit%C3%A1cora.md#bit%C3%A1cora "Inicio") |
+[Siguiente]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Tercera%20Entrega/Cr%C3%ADtica%20del%20curso.md#cr%C3%ADtica-del-curso-%EF%B8%8F "Siguiente") |
+
