@@ -38,6 +38,6 @@ Tanto en la documentación como en las reuniones y comunicación dentro del equi
 -----------------
 
 | [Atras]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Tercera%20Entrega/Bit%C3%A1cora.md#bit%C3%A1cora-"Atras") |
-[Inicio]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Tercera%20Entrega/Bit%C3%A1cora.md#bit%C3%A1cora "Inicio") |
+[Inicio]( https://github.com/Juanca1984/Blockchain "Inicio") |
 [Siguiente]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Tercera%20Entrega/Cr%C3%ADtica%20del%20curso.md#cr%C3%ADtica-del-curso-%EF%B8%8F "Siguiente") |
 
