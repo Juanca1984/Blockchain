@@ -1,5 +1,5 @@
 
-# Implementacion 
+# Implementacion 👨‍🏭
 
 El proceso de implementacion del proyecto fue realizado en base al prototipo de pagina web hecho anteriormente en figma. Con este diseño fue realizada la construccion asi como la codificacion de funciones como la barra de menu, el poder enviar comentarios o el reproducir un video al final de la pagina web. 
 
