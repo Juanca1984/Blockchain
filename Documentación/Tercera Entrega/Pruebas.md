@@ -54,5 +54,5 @@ Se concluye que la visuaización de la página concuerda con el diseño
 -----------------
 
 | [Atras]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Tercera%20Entrega/M%C3%A9trica.md#m%C3%A9trica-"Atras") |
-[Inicio]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Tercera%20Entrega/Bit%C3%A1cora.md#bit%C3%A1cora "Inicio") |
+[Inicio]( https://github.com/Juanca1984/Blockchain "Inicio") |
 [Siguiente](  https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Tercera%20Entrega/Requerimientos.md#requerimientos%EF%B8%8F"Siguiente") |
