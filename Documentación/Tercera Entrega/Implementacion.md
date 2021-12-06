@@ -8,3 +8,10 @@ De igual forma fue hecho el fondo de la pagina web, colocadas las imagenes y sel
 Link de la página: https://unsparred-circumsta.000webhostapp.com/
 
 ![](https://github.com/Juanca1984/Blockchain/blob/a7b1af8b6186d7d4f6f611ac0545b1acda2bed4f/Documentaci%C3%B3n/Tercera%20Entrega/Codificacion/imagenes/imagen%20codigo.png)
+
+
+-----------------
+
+| [Atras](https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Tercera%20Entrega/Implementacion.md#implementacion- "Atras") |
+[Inicio]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Tercera%20Entrega/Bit%C3%A1cora.md#bit%C3%A1cora "Inicio") |
+[Siguiente]( https://github.com/Juanca1984/Blockchain/blob/main/Documentaci%C3%B3n/Tercera%20Entrega/M%C3%A9trica.md#m%C3%A9trica- "Siguiente") |
