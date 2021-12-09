@@ -1,4 +1,4 @@
-# Diseño de la interfaz 
+# Diseño de la interfaz 👨‍🎨
 
 ## -Equipo 2: 
 
@@ -14,11 +14,11 @@ Erika Yamily Aguilar Itza
 
 Ezequiel Jeremías Chan Ay 
 
-## -Objetivo general 
+## -Objetivo general 🎯
 
 Generar conocimiento básico sobre el diseño de interfaces y proveer una herramienta para la generación de estos por medio de una guía en simultáneo. 
 
-## Metas  
+## Metas  🥇
 
 Lograr un mayor conocimiento acerca de los diseños de interfaces. 
 
